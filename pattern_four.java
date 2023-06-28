@@ -14,7 +14,7 @@ public class pattern_four {
         for (int i = 1; i <= rows; i++) {
 
             // this loop is to print spaces in one line
-            for (int j = 1; j >= space; j++) {
+            for (int j = 1; j <= space; j++) {
                 System.out.print(" ");
             }
 
