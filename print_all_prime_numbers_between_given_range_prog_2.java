@@ -1,6 +1,6 @@
 import java.util.*;
 
-// public class print_all_prime_numbers_between_given_range {
+// public class print_all_prime_numbers_between_given_range_prog_2 {
 // public static void main(String args[]){
 // Scanner scan = new Scanner(System.in);
 
@@ -35,7 +35,7 @@ import java.util.*;
 // }
 
 //better approach
-public class print_all_prime_numbers_between_given_range {
+public class print_all_prime_numbers_between_given_range_prog_2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter low:");

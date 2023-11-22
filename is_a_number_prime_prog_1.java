@@ -1,6 +1,6 @@
 import java.util.*;
 
-// public class is_a_number_prime {
+// public class is_a_number_prime_prog_1 {
 //     public static void main(String[] args) {
 //         System.out.print("Enter any number:");
 //         Scanner scan = new Scanner(System.in);
@@ -27,7 +27,7 @@ import java.util.*;
 // }
 
 //better approach
-public class is_a_number_prime {
+public class is_a_number_prime_prog_1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the Amount of Numbers:");
